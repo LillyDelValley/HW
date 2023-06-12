@@ -1,0 +1,59 @@
+a {
+    color: cornflowerblue;
+    }
+    
+ a:visited {
+    color: cornflowerblue;
+    }
+    
+a:hover {
+    color: red;
+    }
+    
+a:active {
+    color: white;
+    }
+
+#b1 {
+    color:darkgoldenrod;
+    font-size: medium;
+    text-decoration-style: wavy;
+}
+
+#b2 {
+    color:chocolate;
+    font-size: large;
+    text-decoration: solid;
+}
+
+#b3 {
+    color:darkorange;
+    text-decoration:underline;
+}
+
+body {
+    background-color: #120707; 
+    color: #FFFF; 
+    font-family: 'Times New Roman', georgia, Courier, monospace; 
+    text-align: center;
+}
+
+blockquote {
+    font-family: impact, monospace;
+    color: #b90707;
+    font-size:x-large;
+    background-color: #180101;
+    width: fit-content;
+    margin: auto;
+    text-shadow: #120707;
+  }
+
+h2 {
+    font-size: medium;
+}
+
+li, ul {
+    margin-left: 28%;
+    margin-right: 28%;
+    padding-block: 10px;
+    }
